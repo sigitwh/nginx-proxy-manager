@@ -1,0 +1,1 @@
+https://nirvashare.com/docs/tutorials/configure-ssl-using-nginx-proxy-manager/
